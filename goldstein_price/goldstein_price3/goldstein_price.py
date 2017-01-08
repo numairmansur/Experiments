@@ -13,7 +13,7 @@ def main(job_id, params):
   f = GoldsteinPrice()
   res = f.objective_function([params['x'], params['y']])
   print res
-  with open('/home/mansurm/Experiments/goldstein_price/run1.csv','a') as csvfile:
+  with open('/home/mansurm/Experiments/goldstein_price/run3.csv','a') as csvfile:
     writer = csv.writer(csvfile, delimiter=',')
     writer.writerow([res['main'][0]])
   return res['main'][0]
