@@ -13,6 +13,6 @@ variable {
  name: "y"
  type: FLOAT
  size: 1
- min:  0
- max:  15
+ min:  -5
+ max:  10
 }

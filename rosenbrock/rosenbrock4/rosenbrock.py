@@ -13,7 +13,7 @@ def main(job_id, params):
   f = Rosenbrock()
   res = f.objective_function([params['x'], params['y']])
   print res
-  with open('/home/mansurm/Experiments/rosenbrock/run4csv','a') as csvfile:
+  with open('/home/mansurm/Experiments/rosenbrock/run4.csv','a') as csvfile:
     writer = csv.writer(csvfile, delimiter=',')
     writer.writerow([res['main'][0]])
   return res['main'][0]
