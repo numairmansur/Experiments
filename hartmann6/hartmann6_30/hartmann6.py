@@ -11,7 +11,7 @@ def main(job_id, params):
   print 'Anything printed here will end up in the output directory for job #:', str(job_id)
   print params
   f = Hartmann6()
-  res = f.objective_function([params['x'], params['y']])
+  res = f.objective_function([params['x'], params['y'], params['z'], params['xx'], params['yy'], params['zz']])
   print res
   with open('/home/mansurm/Experiments/hartmann6/run30.csv','a') as csvfile:
     writer = csv.writer(csvfile, delimiter=',')
