@@ -1,7 +1,0 @@
-Best result: -0.000000
-Job-id: 1
-Parameters: 
-name: "x"
-dbl_val: 0.0
-name: "y"
-dbl_val: 0.0
