@@ -1,7 +1,0 @@
-Best result: 32.843203
-Job-id: 20122
-Parameters: 
-name: "x"
-dbl_val: -0.650341639401
-name: "y"
-dbl_val: -0.328401352574
