@@ -1,0 +1,14 @@
+Running in wrapper mode for '20264'
+
+Running python job.
+
+!!! Entered Main !!!
+Anything printed here will end up in the output directory for job #: 20264
+{u'y': array([ 0.01906683]), u'x': array([ 0.04005844])}
+{'main': array([ 0.03488658])}
+Got result 0.034887
+
+Job file reloaded.
+Completed successfully in 0.05 seconds. [0.034887]
+setting job 20264 complete
+set...
