@@ -1,0 +1,15 @@
+Best result: -3.321552
+Job-id: 20143
+Parameters: 
+name: "x"
+dbl_val: 0.19807482145
+name: "y"
+dbl_val: 0.151121937523
+name: "z"
+dbl_val: 0.472385507157
+name: "xx"
+dbl_val: 0.273344217676
+name: "yy"
+dbl_val: 0.312397807504
+name: "zz"
+dbl_val: 0.654084762948
