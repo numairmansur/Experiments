@@ -1,7 +1,0 @@
-Best result: 0.144062
-Job-id: 20073
-Parameters: 
-name: "x"
-dbl_val: 0.621039490715
-name: "y"
-dbl_val: 0.383565827172
