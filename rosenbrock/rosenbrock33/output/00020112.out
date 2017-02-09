@@ -1,0 +1,14 @@
+Running in wrapper mode for '20112'
+
+Running python job.
+
+!!! Entered Main !!!
+Anything printed here will end up in the output directory for job #: 20112
+{u'y': array([ 2.49384082]), u'x': array([ 1.63155173])}
+{'main': array([ 3.22529855])}
+Got result 3.225299
+
+Job file reloaded.
+Completed successfully in 0.04 seconds. [3.225299]
+setting job 20112 complete
+set...
